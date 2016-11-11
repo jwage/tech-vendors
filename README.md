@@ -118,3 +118,7 @@
 
 - [BriteVerify](http://www.briteverify.com)
 - [Kickbox](https://kickbox.io)
+
+## Consumer Reviews
+
+- [PowerReviews](http://www.powerreviews.com)
