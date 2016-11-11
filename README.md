@@ -24,6 +24,7 @@
 - [HubSpot](http://www.hubspot.com)
 - [Epsilon](http://www.epsilon.com)
 - [Aurea](http://www.aurea.com/products/email-marketing)
+- [Experian](http://www.experian.com/marketing-services/marketing-services.html)
 
 ## Logging
 
