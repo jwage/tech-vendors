@@ -1,5 +1,20 @@
 # Tech Vendors
 
+## Advertising & Marketing
+
+- [AutoPilotHQ](https://autopilothq.com)
+- [AppNexus](https://www.appnexus.com)
+- [PricingEngine](https://www.pricingengine.com)
+- [AdStage](https://www.adstage.io)
+- [Sokrati](https://sokrati.com)
+- [The Trade Desk](http://thetradedesk.com)
+- [OpenX](http://openx.com)
+- [Nanigans](http://www.nanigans.com)
+- [AmPush](http://www.ampush.com)
+- [AdStage](http://adstage.io)
+- [MightyHive](http://mightyhive.com)
+- [AdaptiveInsights](http://www.adaptiveinsights.com)
+
 ## API
 
 - [3scale](http://www.3scale.net)
@@ -19,6 +34,10 @@
 - [SteelHouse](http://steelhouse.com)
 - [IgnitionOne](http://ignitionone.com)
 - [Evergage](http://www.evergage.com)
+
+## Business Intelligence
+
+- [Domo](https://www.domo.com)
 
 ## CDN & Website Security
 
