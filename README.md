@@ -113,3 +113,8 @@
 ## Visitor Recording
 
 - [HotJar](https://www.hotjar.com)
+
+## E-Mail and Physical Address Verification
+
+- [BriteVerify](http://www.briteverify.com)
+- [Kickbox](https://kickbox.io)
