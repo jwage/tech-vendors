@@ -64,3 +64,10 @@
 ## Security
 
 - [Qualys](https://www.qualys.com)
+
+
+## Data AI/Machine Learning
+
+- [CrowdFlower](http://www.crowdflower.com)
+- [Treasure Data](http://www.treasuredata.com)
+- [Simon Data](http://simondata.com)
