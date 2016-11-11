@@ -60,3 +60,7 @@
 - [CDN77](https://www.cdn77.com)
 - [Akamai](https://www.akamai.com)
 - [KeyCDN](https://www.keycdn.com)
+
+## Security
+
+- [Qualys](https://www.qualys.com)
