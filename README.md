@@ -101,3 +101,15 @@
 ## Push Notifications
 
 - [UrbanAirship](https://www.urbanairship.com)
+
+## AB Testing
+
+- [Optimizely](https://www.optimizely.com)
+
+## Financial & Business Management
+
+- [NetSuite](http://www.netsuite.com)
+
+## Visitor Recording
+
+- [HotJar](https://www.hotjar.com)
