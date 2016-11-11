@@ -25,6 +25,7 @@
 - [Epsilon](http://www.epsilon.com)
 - [Aurea](http://www.aurea.com/products/email-marketing)
 - [Experian](http://www.experian.com/marketing-services/marketing-services.html)
+- [SendGrid](http://www.sendgrid.com)
 
 ## Logging
 
