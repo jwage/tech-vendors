@@ -4,14 +4,21 @@
 
 - [3scale](http://www.3scale.net)
 - [Apigee](https://apigee.com)
+- [Mashery](https://www.mashery.com)
+- [Mulesoft](https://www.mulesoft.com)
 
 ## AB Testing
 
 - [Optimizely](https://www.optimizely.com)
+- [SiteSpect](http://www.sitespect.com)
+- [Monetate](http://www.monetate.com/products/dynamic-testing/)
 
 ## Behavioral Marketing
 
-- [Bounce Exchange](https://www.bouncex.com/)
+- [Bounce Exchange](https://www.bouncex.com)
+- [SteelHouse](http://steelhouse.com)
+- [IgnitionOne](http://ignitionone.com)
+- [Evergage](http://www.evergage.com)
 
 ## CDN & Website Security
 
@@ -33,6 +40,8 @@
 ## Consumer Reviews
 
 - [PowerReviews](http://www.powerreviews.com)
+- [Bazaarvoice](http://www.bazaarvoice.com)
+- [Yotpo](https://www.yotpo.com)
 
 ## Data AI/Machine Learning
 
@@ -122,5 +131,3 @@
 ## Visitor Recording
 
 - [HotJar](https://www.hotjar.com)
-
-
