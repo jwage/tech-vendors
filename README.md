@@ -1,5 +1,49 @@
 # Tech Vendors
 
+## API
+
+- [3scale](http://www.3scale.net)
+
+## AB Testing
+
+- [Optimizely](https://www.optimizely.com)
+
+## Behavioral Marketing
+
+- [Bounce Exchange](https://www.bouncex.com/)
+
+## CDN & Website Security
+
+- [Cedexis](http://www.cedexis.com)
+- [Cloudflare](https://www.cloudflare.com)
+- [MaxCDN](https://www.maxcdn.com)
+- [Incapsula](https://www.incapsula.com)
+- [Verizon](https://www.verizondigitalmedia.com/platform/edgecast-cdn)
+- [CacheFly](https://www.cachefly.com)
+- [CloudFront](https://aws.amazon.com/cloudfront)
+- [Swarmify](https://swarmify.com)
+- [Google](https://cloud.google.com/appengine)
+- [JSDelivr](https://www.jsdelivr.com)
+- [CDN77](https://www.cdn77.com)
+- [Akamai](https://www.akamai.com)
+- [KeyCDN](https://www.keycdn.com)
+- [InstartLogic](https://www.instartlogic.com/)
+
+## Consumer Reviews
+
+- [PowerReviews](http://www.powerreviews.com)
+
+## Data AI/Machine Learning
+
+- [CrowdFlower](http://www.crowdflower.com)
+- [Treasure Data](http://www.treasuredata.com)
+- [Simon Data](http://simondata.com)
+
+## E-Mail and Physical Address Verification
+
+- [BriteVerify](http://www.briteverify.com)
+- [Kickbox](https://kickbox.io)
+
 ## E-Mail Service Providers
 
 - [Emarsys](http://www.emarsys.com)
@@ -27,6 +71,15 @@
 - [Experian](http://www.experian.com/marketing-services/marketing-services.html)
 - [SendGrid](http://www.sendgrid.com)
 
+## Financial & Business Management
+
+- [NetSuite](http://www.netsuite.com)
+
+## Fraud Prevention/Detection
+
+- [Simility](https://simility.com)
+- [MaxMind](https://www.maxmind.com)
+
 ## Logging
 
 - [Log Entries](https://logentries.com)
@@ -48,77 +101,25 @@
 - [Monitis](http://www.monitis.com)
 - [NewRelic](https://newrelic.com)
 
-## CDN & Website Security
+## Push Notifications
 
-- [Cedexis](http://www.cedexis.com)
-- [Cloudflare](https://www.cloudflare.com)
-- [MaxCDN](https://www.maxcdn.com)
-- [Incapsula](https://www.incapsula.com)
-- [Verizon](https://www.verizondigitalmedia.com/platform/edgecast-cdn)
-- [CacheFly](https://www.cachefly.com)
-- [CloudFront](https://aws.amazon.com/cloudfront)
-- [Swarmify](https://swarmify.com)
-- [Google](https://cloud.google.com/appengine)
-- [JSDelivr](https://www.jsdelivr.com)
-- [CDN77](https://www.cdn77.com)
-- [Akamai](https://www.akamai.com)
-- [KeyCDN](https://www.keycdn.com)
-- [InstartLogic](https://www.instartlogic.com/)
-
-## Security
-
-- [Qualys](https://www.qualys.com)
-
-
-## Data AI/Machine Learning
-
-- [CrowdFlower](http://www.crowdflower.com)
-- [Treasure Data](http://www.treasuredata.com)
-- [Simon Data](http://simondata.com)
-
-## API
-
-- [3scale](http://www.3scale.net)
+- [UrbanAirship](https://www.urbanairship.com)
 
 ## Search
 
 - [constructor.io](http://constructor.io)
 - [Blackbird](http://www.blackbirdai.com/)
 
+## Security
+
+- [Qualys](https://www.qualys.com)
+
 ## Shipment
 
 - [AfterShip](https://www.aftership.com)
-
-## Behavioral Marketing
-
-- [Bounce Exchange](https://www.bouncex.com/)
-
-## Fraud Prevention/Detection
-
-- [Simility](https://simility.com)
-- [MaxMind](https://www.maxmind.com)
-
-## Push Notifications
-
-- [UrbanAirship](https://www.urbanairship.com)
-
-## AB Testing
-
-- [Optimizely](https://www.optimizely.com)
-
-## Financial & Business Management
-
-- [NetSuite](http://www.netsuite.com)
 
 ## Visitor Recording
 
 - [HotJar](https://www.hotjar.com)
 
-## E-Mail and Physical Address Verification
 
-- [BriteVerify](http://www.briteverify.com)
-- [Kickbox](https://kickbox.io)
-
-## Consumer Reviews
-
-- [PowerReviews](http://www.powerreviews.com)
