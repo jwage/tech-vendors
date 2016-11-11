@@ -91,3 +91,8 @@
 ## Behavioral Marketing
 
 - [Bounce Exchange](https://www.bouncex.com/)
+
+## Fraud Prevention/Detection
+
+- [Simility](https://simility.com)
+- [MaxMind](https://www.maxmind.com)
