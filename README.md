@@ -68,6 +68,13 @@
 - [Treasure Data](http://www.treasuredata.com)
 - [Simon Data](http://simondata.com)
 
+## Data Layers & Tag Management
+
+- [Ensighten](https://www.ensighten.com)
+- [qubit](http://www.qubit.com)
+- [Signal](http://www.signal.co)
+- [Tealium](http://tealium.com)
+
 ## E-Mail and Physical Address Verification
 
 - [BriteVerify](http://www.briteverify.com)
@@ -99,6 +106,9 @@
 - [Aurea](http://www.aurea.com/products/email-marketing)
 - [Experian](http://www.experian.com/marketing-services/marketing-services.html)
 - [SendGrid](http://www.sendgrid.com)
+- [Iterable](https://iterable.com)
+- [Ongage](https://www.ongage.com)
+- [GetResponse](https://www.getresponse.com)
 
 ## Financial & Business Management
 
@@ -136,8 +146,11 @@
 
 ## Search
 
+- [Algolia](https://www.algolia.com)
+- [Blackbird](http://www.blackbirdai.com)
 - [constructor.io](http://constructor.io)
-- [Blackbird](http://www.blackbirdai.com/)
+- [Elastic.co](https://www.elastic.co/products/elasticsearch)
+- [Searchly](http://www.searchly.com)
 
 ## Security
 
